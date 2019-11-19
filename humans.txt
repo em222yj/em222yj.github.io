@@ -1,0 +1,20 @@
+# TEAM
+
+Designer & Developer: Emil Mahs
+GitHub: https://github.com/em222yj
+Location: Kalmar, Sweden
+
+---
+
+# THANKS
+
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Git + GitHub
+- Visual Studio Code
+- Node.js
